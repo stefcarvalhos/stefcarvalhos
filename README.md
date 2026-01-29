@@ -72,7 +72,7 @@ Today, I combine my legal strategic thinking background with software developmen
 | **[libft](https://github.com/stefcarvalhos/libft)** | Custom implementation of C standard library functions | C | ✅ |
 | **[ft_printf](https://github.com/stefcarvalhos/ft_printf)** | Recreation of the printf function | C | ✅ |
 | **[get_next_line](https://github.com/stefcarvalhos/get_next_line)** | Efficient file reading line by line | C | ✅ |
-| **[born2beroot](https://github.com/stefcarvalhos/born2beroot)** | Virtual machine setup and system hardening | Linux, VM | ✅ |
+| **born2beroot** | Virtual machine setup and system hardening | Linux, VM | ✅ |
 | **[push_swap](https://github.com/stefcarvalhos/push_swap)** | Sorting algorithm with limited stack operations | C, Algorithms | ✅ |
 | **[pipex](https://github.com/stefcarvalhos/pipex)** | Recreation of shell piping and redirection | C, Processes | ✅ |
 | **[so_long](https://github.com/stefcarvalhos/so_long)** | 2D game with graphics rendering and pathfinding | C, MinilibX | ✅ |
