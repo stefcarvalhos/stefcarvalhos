@@ -87,17 +87,6 @@ Today, I combine my legal strategic thinking background with software developmen
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stefcarvalhos&show_icons=true&title_color=F5A9B8&text_color=16A085&icon_color=9B59B6&bg_color=212830&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefcarvalhos&layout=compact&title_color=F5A9B8&text_color=16A085&bg_color=212830&hide_border=true)
-
-</div>
-
----
 ## 🌟 Code Snippet
 
 ```c
